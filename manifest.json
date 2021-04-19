@@ -1,0 +1,9 @@
+{
+  "Name": "My Another Mod",
+  "Author": "ForryS",
+  "Version": "1.0.0",
+  "Description": "Лорем ипсум долор сит амет, деленити десерунт цомплецтитур еу нец, фуиссет яуалисяуе нец цу, вел аеяуе ехпетенда ут.",
+  "UniqueID": "forrys.myanothermod",
+  "ContentPackFor": {
+    "UniqueID": "spacechase0.JsonAssets"
+  }

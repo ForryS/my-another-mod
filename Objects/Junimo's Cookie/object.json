@@ -1,0 +1,54 @@
+{
+    "Name": "Junimo's Cookie",
+    "Description": "Nutritious and delicious cookies in the form of Junimo.",
+    "Category": "Cooking",
+    "Edibility": 75,
+    "EdibleIsDrink": false,
+    "Price": 340,
+    "IsColored": false,
+
+
+    "Recipe":
+    {
+        "ResultCount": 1,
+        {
+            "Object": 223,
+            "Count": 1,
+        },
+        {
+            "Object": 252,
+            "Count": 1,
+        }],
+        "IsDefault": true,
+            },
+
+
+    "NameLocalization":
+    {
+        "es": "",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "Печенье Джунимо",
+        "tr": "",
+        "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "Питательное и вкусное печенье в виде Джунимо.",
+        "tr": "",
+        "zh": "",
+    },
+}
